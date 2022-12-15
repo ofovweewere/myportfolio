@@ -1,0 +1,12 @@
+week2 important links
+https://nodejs.org/dist/latest-v16.x/docs/api/path.html
+google html content types
+
+git init :put together a new git repository
+git add . : adds everything to the staging area
+git commit -m "initial commit" : takes a snapshot of my files the way they are
+
+create a new repository online
+
+Next copy and paste last three lines
+

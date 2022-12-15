@@ -1,0 +1,8 @@
+Week 3
+Pile of video to watch for assignment:
+Express in heroku is required
+style- chaeck awwwards website. check portfolio for ideas. You cannot themeforest
+Not has to be so cool but  just basics, check requirments
+Technology: CSS, html, javascript for front end and typescript/nodejs on the backend
+
+Expressjs.com
